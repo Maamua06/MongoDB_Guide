@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import styled from 'styled-components';
-import Home from "../pages/home";
 
 const NavbarTitle = styled(Link)`
 

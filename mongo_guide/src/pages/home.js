@@ -21,6 +21,7 @@ const Home = () => {
             <source src={Video} type="video/mp4" />
           </video>
 
+
         <div className="container top">
           <Text>Gå Inn i terminalen på din VM</Text>
         </div>
